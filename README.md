@@ -5,6 +5,11 @@
 
 _This Project was done as a warm-up task to revisit the OOP (Object Oriented Programming) knowledge to start our Software Engineering course in 5th Semester, Computer Science and Engineering, University of Chittagong, Bangladesh._
 
+***
+> Account 1: 19701066 Password: 12345
+> Account 2: 19701062 Password: 12345
+***
+
 ### Examining the ATM Requirements Document:
 
 We begin our design process by presenting a requirements document that specifies the ATM system’s overall purpose and what it must do. 
