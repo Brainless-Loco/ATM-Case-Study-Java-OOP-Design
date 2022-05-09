@@ -3,7 +3,7 @@
 
 > Case Study from: Java: How to Program (Book by Harvey Deitel and Paul Deitel)
 
-_This Project was done as a warm-up task to revisit the OOP (Object Oriented Programming) knowledge to start our Software Engineering course in 5th Semester, Computer Science and Engineering, University of Chittagong, Bangladesh.
+_This Project was done as a warm-up task to revisit the OOP (Object Oriented Programming) knowledge to start our Software Engineering course in 5th Semester, Computer Science and Engineering, University of Chittagong, Bangladesh._
 
 ### Examining the ATM Requirements Document:
 
